@@ -1,1 +1,1 @@
-# Projet_PoC
+Segmentation de maillages triangulaires STL basée sur l’analyse des normales, du voisinage topologique et de critères géométriques locaux. Le projet implémente une segmentation sans bruit par region growing et une segmentation avec bruit distinguant les régions planes, lisses (smooth) et rugueuses (rough), avec visualisation 3D des résultats sous MATLAB.
